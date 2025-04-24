@@ -21,7 +21,7 @@ Expo Go app on your physical device (for testing)
 Installation
 
 Clone the repository:
-bashgit clone [https://github.com/yourusername/aora-app.git](https://github.com/AAtaksan/Aora.git)
+bashgit clone https://github.com/AAtaksan/Aora.git
 cd aora-app
 
 Install dependencies:
